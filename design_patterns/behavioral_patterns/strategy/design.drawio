@@ -1,0 +1,15 @@
+<mxfile host="65bd71144e">
+    <diagram id="3VY-Udztv6SvyeiFSgMd" name="Page-1">
+        <mxGraphModel dx="841" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <UserObject label="https://www.geeksforgeeks.org/strategy-method-design-pattern-c-design-patterns/" link="https://www.geeksforgeeks.org/strategy-method-design-pattern-c-design-patterns/" id="2">
+                    <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                        <mxGeometry x="60" y="130" width="480" height="30" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
