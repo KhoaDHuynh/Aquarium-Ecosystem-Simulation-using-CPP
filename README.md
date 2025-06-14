@@ -2,7 +2,7 @@
 
 This project focuses on refactoring and extending an initial simulation of an ecosystem using **design patterns**. The goal is to create a flexible, maintainable, and extensible software solution that adheres to object-oriented principles and implements advanced C++ features.
 
-My Linkedin: https://www.linkedin.com/in/dang-khoa-huynh-50814017b/
+- My Linkedin: https://www.linkedin.com/in/dang-khoa-huynh-50814017b/
 ---
 
 ## Project Overview
@@ -100,19 +100,6 @@ A `Bestiole` detects another if:
      - **Birth**: Determines when and how new `Bestiole` objects are created.
      - **Death**: Manages the conditions under which `Bestiole` objects die (e.g., age limit or external events).
      - **Collisions**: Resolves collisions between `Bestiole` objects, including bouncing or probabilistic death.
-
----
-
-## Deliverables
-
-1. **Analysis and Design**:
-   - UML diagrams (class diagrams, sequence diagrams, etc.).
-   - Justification for the choice of design patterns.
-2. **Implementation**:
-   - Refactored and extended C++ codebase.
-   - Functional simulation with all specified features.
-3. **Presentation**:
-   - Demonstration of the simulation and its features.
 
 ---
 
